@@ -3,7 +3,7 @@
 import { useCallback, useState } from "react"
 import axios from "axios"
 import { FieldValues, SubmitHandler, useForm } from "react-hook-form"
-import useRegisterModal from "../../../hooks/useRegisterModal"
+import useRegisterModal from "../../hooks/useRegisterModal"
 import { toast } from "react-hot-toast"
 
 //Components

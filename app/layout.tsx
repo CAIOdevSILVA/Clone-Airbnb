@@ -1,7 +1,7 @@
 import { Nunito } from "next/font/google"
 
 //Components
-import { Navbar, ClientOnly, RegisterModal } from "./api/components"
+import { Navbar, ClientOnly, RegisterModal } from "./components"
 import ToasterProvider from "./providers/ToasterProvider"
 
 import './globals.css'
