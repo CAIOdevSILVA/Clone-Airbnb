@@ -8,6 +8,7 @@ import MenuItem from "./Navbar/MenuItem";
 //Modal
 import Modal from "./Modals/Modal";
 import RegisterModal from "./Modals/RegisterModal";
+import LoginModal from "./Modals/LoginModal";
 
 
 //Input
@@ -32,5 +33,6 @@ export {
   Button,
   RegisterModal,
   Heading,
-  Input
+  Input,
+  LoginModal
  }
